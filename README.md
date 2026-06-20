@@ -1,14 +1,13 @@
-<!DOCTYPE html>
+
 <html>
 <head>
-  <title>Join Our this workspace to Demo Tbot</title>
 </head>
 <body>
   <h1>Welcome!</h1>
-  <p>J.</p>
+  <p></p>
 
   <a href="https://join.slack.com/your-workspace/invite/..." target="_blank">
-    Join Slack
+    Join Slack to demo Tbot 
   </a>
 </body>
 </html>
